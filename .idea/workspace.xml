@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="febe6464-3754-47cc-99e6-81b8f72394b4" name="Default Changelist" comment="Last changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package.json" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1jaPDhUNQBTF645wwv6psYRpWUQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="xhr.open(&quot;GET&quot;, &quot;duomenys/mokiniai.json&quot;);" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="febe6464-3754-47cc-99e6-81b8f72394b4" name="Default Changelist" comment="" />
+      <created>1604039113771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604039113771</updated>
+      <workItem from="1604039114967" duration="59000" />
+      <workItem from="1604039175722" duration="31748000" />
+      <workItem from="1604320298656" duration="10147000" />
+      <workItem from="1604570681393" duration="790000" />
+      <workItem from="1604572346944" duration="7272000" />
+      <workItem from="1604579693739" duration="2981000" />
+      <workItem from="1604843833530" duration="600000" />
+      <workItem from="1605179005953" duration="1637000" />
+      <workItem from="1605180991724" duration="5824000" />
+      <workItem from="1605207981382" duration="1312000" />
+      <workItem from="1605248280616" duration="61000" />
+      <workItem from="1605254798750" duration="42461000" />
+    </task>
+    <task id="LOCAL−00001" summary="Oru prognoze is api.meteo.lt">
+      <created>1604338451852</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1604338451852</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Last changes">
+      <created>1604605835432</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1604605835432</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Oru prognoze is api.meteo.lt" />
+    <MESSAGE value="Last changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2635" y="346" key="#Notifications" timestamp="1604580443556">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2635" y="346" key="#Notifications/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1604580443556" />
+    <state x="2660" y="277" key="FileChooserDialogImpl" timestamp="1605248343229">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="277" key="FileChooserDialogImpl/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1605248343229" />
+    <state x="2758" y="420" key="Github.ShareDialog" timestamp="1605208967283">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2758" y="420" key="Github.ShareDialog/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1605208967283" />
+    <state x="2736" y="227" key="Github.UntrackedFilesDialog" timestamp="1605209000075">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2736" y="227" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1605209000075" />
+    <state x="2381" y="167" key="SettingsEditor" timestamp="1604580454807">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="167" key="SettingsEditor/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1604580454807" />
+    <state x="2472" y="255" key="Vcs.Push.Dialog.v2" timestamp="1605208851166">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1605208851166" />
+    <state x="2536" y="241" key="run.anything.popup" timestamp="1604049024630">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="241" key="run.anything.popup/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1604049024630" />
+  </component>
+</project>
